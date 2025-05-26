@@ -19,6 +19,12 @@ I'm a passionate developer with experience in building projects across various d
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-FF6F61?style=flat-square&logo=artificial-intelligence&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00CED1?style=flat-square&logo=machine-learning&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-4682B4?style=flat-square&logo=neural-network&logoColor=white)
 
 ---
 
