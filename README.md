@@ -40,6 +40,7 @@ I'm a passionate developer with experience in building projects across various d
 -->
 - **[weather-app](https://github.com/kumarsaurabhkv/weather-app)**: A weather application built with C# (.NET Framework).
 - **[zambot-project](https://github.com/kumarsaurabhkv/zambot-project)**: A project created for an internal hackathon, built with PHP, which won 3rd prize.
+- **[Cyber Guard Admin Panel](https://github.com/kumarsaurabhkv/cyber-guard-command-center)**: A Admin Dashboard For Cyber Guard or Cyber panel.
 ---
 ## 📊 GitHub Stats
 
