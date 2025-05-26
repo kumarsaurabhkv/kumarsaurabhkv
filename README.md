@@ -2,12 +2,12 @@
 
 I'm a passionate developer with experience in building projects across various domains. Here's a bit about my journey:
 
-- 🔭 I’m currently working on **ProjectX** - A web application focused on simplifying task management with React and Node.js, and **DataAnalyzer** - A Python-based tool for data visualization and insights.  
-- 🌱 I’m currently learning advanced cloud architecture and diving deeper into machine learning frameworks like TensorFlow.  
-- 👯 I’m looking to collaborate on open-source projects related to web development, data science, or automation tools.  
-- 🤔 I’m looking for help with optimizing backend performance in my **E-CommerceAPI** repo, built with Express.js and MongoDB.  
-- 💬 Ask me about my experience with full-stack development or my experiments with algorithmic problem-solving in **CodeChallenges**, a repo where I share my solutions to LeetCode and HackerRank problems.  
-- ⚡ Fun fact: I’ve contributed to over 10 repositories in the last year, ranging from small utility scripts to large-scale applications!
+- 🔭 I’m currently working on **weather-app** - A weather application built with C# (.NET Framework), and **zambot-project** - A PHP-based project created for an internal hackathon, which won 3rd prize.  
+- 🌱 I’m currently learning autonomous driving systems through the CARLA simulator, focusing on integrating AI/ML for advanced driver assistance systems, alongside exploring frameworks like TensorFlow for machine learning projects.  
+- 👯 I’m looking to collaborate on open-source projects related to web development, music tech, or autonomous driving simulations.  
+- 🤔 I’m looking for help with enhancing my autonomous driving project in CARLA, particularly with sensor integration and lane detection.  
+- 💬 Ask me about my experience with building applications in C# and PHP, or my work on AI-driven simulations for autonomous driving.  
+- ⚡ Fun fact: I’ve explored diverse projects, from cloud storage solutions using the Telegram API to music theory apps, reflecting my dual focus on computer science and music as an undergraduate student!
 
 ---
 
@@ -62,4 +62,4 @@ I have experience working with technologies like React, Node.js, Python, and SQL
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=kumarsaurabhkv&color=blue)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=kumarsaurabhkv&color=blue) -->
